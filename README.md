@@ -36,23 +36,23 @@ The dataset contains daily performance metrics for Facebook and AdWords campaign
 Histograms of clicks and conversions show a roughly **symmetrical distribution**, indicating no major outliers.  
 
 **Facebook Clicks and Conversions**
-![Facebook Clicks](images/facebook_clicks.png)
-![Facebook Conversions](images/facebook_conversions.png)
+![Facebook Clicks](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/facebook_clicks.png)
+![Facebook Conversions](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/facebook_conversions.png)
 
 **AdWords Clicks and Conversions**
-![AdWords Clicks](images/adwords_clicks.png)
-![AdWords Conversions](images/adwords_conversions.png)
+![AdWords Clicks](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/adwords_clicks..png)
+![AdWords Conversions]([images/adwords_conversions.png](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/adwords_conversions.png))
 
 ### Frequency of High-Converting Days
 Bar chart comparing daily conversion frequencies for Facebook and AdWords:
 
-![Daily Conversion Frequency](images/daily_conversion_frequency.png)
+![Daily Conversion Frequency](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/daily_conversion_frequency.png)
 
 ### Correlation Analysis
 - Facebook: **0.87** (strong correlation between clicks and conversions)  
 - AdWords: **0.45** (moderate correlation)
 
-![Correlation Comparison](images/correlation_comparison.png)
+![Correlation Comparison]([images/correlation_comparison.png](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/correlation_comparison.png))
 
 > Facebook ads are more effective in driving conversions.
 
@@ -79,7 +79,7 @@ Linear Regression predicts Facebook ad conversions based on clicks:
 - 80 clicks → 19 conversions
 
 **Scatter plot with regression line**
-![Regression Analysis](images/regression_analysis.png)
+![Regression Analysis](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/regression_analysis.png)
 
 > This helps plan campaign goals, optimize ad spend, and forecast ROI.
 
@@ -89,10 +89,10 @@ Linear Regression predicts Facebook ad conversions based on clicks:
 - **Cost per Conversion (CPC):** Generally stable; lowest in May & Nov, highest in Feb.  
 
 **Conversions over Months**
-![Monthly Conversions](images/monthly_conversions.png)
+![Monthly Conversions](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/monthly_conversions.png)
 
 **CPC Trends**
-![CPC Trends](images/cpc_trends.png)
+![CPC Trends](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/cpc_trends.png)
 
 > Strategic budget allocation during low-CPC months can maximize ROI.
 
@@ -100,7 +100,7 @@ Linear Regression predicts Facebook ad conversions based on clicks:
 - Long-term equilibrium relationship exists between **advertising spend and conversions**.  
 - p-value << 0.05 → Stable proportional impact of budget changes on conversions.  
 
-![Cointegration Test](images/cointegration_test.png)
+![Cointegration Test](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/cointegration_test.png)
 
 > Helps marketers optimize campaigns efficiently.
 
