@@ -41,7 +41,7 @@ Histograms of clicks and conversions show a roughly **symmetrical distribution**
 
 **AdWords Clicks and Conversions**
 ![AdWords Clicks](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/adwords_clicks..png)
-![AdWords Conversions]([images/adwords_conversions.png](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/adwords_conversions.png))
+![AdWords Conversions](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/75c3536bb3b935b3686b6db9ea1ff08c1c39c56d/adwords_conversions.png)
 
 ### Frequency of High-Converting Days
 Bar chart comparing daily conversion frequencies for Facebook and AdWords:
@@ -52,7 +52,7 @@ Bar chart comparing daily conversion frequencies for Facebook and AdWords:
 - Facebook: **0.87** (strong correlation between clicks and conversions)  
 - AdWords: **0.45** (moderate correlation)
 
-![Correlation Comparison]([images/correlation_comparison.png](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/186eb7d78b685fe5f62bb6d2d5763ca879d2a061/correlation_comparison.png))
+![Correlation Comparison](https://github.com/asif684/A-B-Testing-Analysis-Facebook-VS-Adword-/blob/75c3536bb3b935b3686b6db9ea1ff08c1c39c56d/correlation_comparison.png)
 
 > Facebook ads are more effective in driving conversions.
 
